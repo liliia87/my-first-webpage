@@ -7,10 +7,10 @@
 ## Technologies Used
 
 * Inline elements and attributes HTML:
-* _<strong>_
-* _<em>_
-* _<a>_
-* _<img>_
+1.<strong>
+2.<em>
+3.<a>
+4.<img>
 
 ## Description
 
